@@ -1,1 +1,1 @@
-** PVD algorithm for pictures in grayscale **
+**PVD algorithm for pictures in grayscale**
