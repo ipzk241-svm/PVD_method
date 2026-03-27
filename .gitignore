@@ -1,0 +1,21 @@
+# Базовий Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальні середовища (Virtual Environments)
+.venv/
+venv/
+ENV/
+env/
+
+# IDE та редактори
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Дані та зображення (результати роботи)
+static/stego_*.png
+stego.png
+uploads/
